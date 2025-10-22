@@ -364,13 +364,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [GitHub Profile](https://github.com/yourusername)
+- **Nithish Kannan M** - *Initial work* - [GitHub Profile](https://github.com/NithishKannanM)
 
 ## 🙏 Acknowledgments
 
@@ -391,9 +388,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues or questions:
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/crowd-management-mern/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/crowd-management-mern/discussions)
+- 📧 Email: nithishkannanm1@example.com
+- 🐛 Issues: [GitHub Issues](https://github.com/NithishKannanM/Real-Time-Crowd-Management-System/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/NithishKannanM/Real-Time-Crowd-Management-System/discussions)
 
 ---
 
