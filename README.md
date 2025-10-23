@@ -367,7 +367,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 👥 Authors
 
-- **Nithish Kannan M** - *Initial work* - [GitHub Profile](https://github.com/NithishKannanM)
+- **Nithish Kannan M** - *Initial work and development* - [GitHub Profile](https://github.com/NithishKannanM)
 
 ## 🙏 Acknowledgments
 
@@ -388,7 +388,7 @@ Contributions are welcome! Please follow these steps:
 ## 📞 Support
 
 For issues or questions:
-- 📧 Email: nithishkannanm1@example.com
+- 📧 Email: nithishkannanm11@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/NithishKannanM/Real-Time-Crowd-Management-System/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/NithishKannanM/Real-Time-Crowd-Management-System/discussions)
 
