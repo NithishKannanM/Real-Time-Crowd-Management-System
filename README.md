@@ -367,7 +367,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 👥 Authors
 
-- **Nithish Kannan M** - *Initial work and development* - [GitHub Profile](https://github.com/NithishKannanM)
+- **Nithish Kannan M** - *Initial work and ML development* - [GitHub Profile](https://github.com/NithishKannanM)
 
 ## 🙏 Acknowledgments
 
