@@ -106,7 +106,7 @@ RealTime_Crowd_Management_MERN/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/crowd-management-mern.git
+git clone https://github.com/NithishKannanM/crowd-management-mern.git
 cd crowd-management-mern
 ```
 
